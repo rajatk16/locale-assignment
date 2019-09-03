@@ -1,0 +1,15 @@
+.leaflet-container {
+  height: 400px;
+  width: 100%;
+  position: relative;
+  margin-top: 80px;
+}
+
+.container {
+  margin-top: 80px;
+}
+
+.ui.message {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,21 @@
+.dropper {
+  border: 1px dashed black;
+  height: 20vh;
+  margin: 30px;
+}
+
+input {
+  /* border: 1px solid black; */
+  height: 20vh;
+  width: 100%;
+  cursor: pointer;
+  opacity: 0;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  bottom: 65%;
+  z-index: -1;
+}

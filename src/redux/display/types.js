@@ -1,0 +1,2 @@
+export const DISPLAY_MAP = "DISPLAY_MAP";
+export const DISPLAY_CHART = "DISPLAY_CHART";
